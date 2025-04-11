@@ -1,3 +1,7 @@
+//Gabi Melby
+//used chatgpt and deep seek to help me create my classes for my project. 
+//also had them help me create my controller and models. 
+
 class GameStats {
   int q1Kills = 0;
   int q2Kills = 0;
