@@ -1,3 +1,8 @@
+//Gabi Melby
+//used chatgpt and deep seek to help me create my classes for my project. 
+//also had them help me create my controller and models. 
+
+
 import '../../models/game_stats.dart';
 
 class KillTrackerController {
